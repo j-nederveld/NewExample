@@ -9,3 +9,7 @@ a:hover {
 a:visited {
     color: green;
   }
+
+body {
+    background-color: slategray;
+}
