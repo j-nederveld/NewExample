@@ -1,3 +1,7 @@
 .text-bold {
     font-weight: bold;
 }
+
+a:hover {
+    color: pink;
+}
