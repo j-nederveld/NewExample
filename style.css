@@ -19,3 +19,7 @@ a:visited:hover {
 body {
     background-color: slategray;
 }
+
+.text-center {
+  text-align: center;
+}
